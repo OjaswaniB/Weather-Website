@@ -2,12 +2,12 @@
 A simple web application that provides real-time weather information for a specific location using OpenWeatherMap API.
 
 ## Technologies Used
-Express.js
-Node.js
-EJS
-HTML
-CSS
-JavaScript
+* Express.js
+* Node.js
+* EJS
+* HTML
+* CSS
+* JavaScript
 
 ## Prerequisites
 Make sure you have the following installed on your machine:
